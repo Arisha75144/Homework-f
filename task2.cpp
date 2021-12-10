@@ -5,6 +5,7 @@
 //For example, "123 Main Street", "1001 1st Ave", or "55 North Center Drive".
 
 #include <iostream>
+#include <string>
 
 
 using namespace std;
