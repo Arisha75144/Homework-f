@@ -1,9 +1,1 @@
-# Homework-f
-const themes = {
-  default: {
-    title_color: "2f80ed",
-    icon_color: "4c71f2",
-    text_color: "333",
-    bg_color: "fffefe",
-    border_color: "e4e2e2",
-  }
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Arisha75144anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
